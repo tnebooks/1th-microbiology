@@ -137,7 +137,7 @@ Troposphere80–700 km
 
 Exosphere
 
-**Figure 9.1:** Diagram showing layers of atmosphere
+![Diagram showing layers of atmosphere](9.1.png "")
 
 ### Composition of Air
 
@@ -234,7 +234,7 @@ Commensal as well as pathogenic flora of the human beings may enter the air by a
 
 mucus (Figure 9.2). Droplets are relatively large, about 10µm or more in size, and they tend to settle rapidly in still air. When inhaled these droplets are trapped on the moist surfaces of the respiratory tract. Thus, the droplets containing pathogenic microorganisms may be a source of infectious disease.
 
-**Figure 9.2:** Droplets released during sneezing
+![Droplets released during sneezing](9.2.png "")
 
 **Droplet nuclei** Small droplets in a warm, dry atmosphere tend to evaporate rapidly and become
 
@@ -280,7 +280,7 @@ _Pneumocystis carinii_
 
 There are several methods adopted to enumerate microorganisms in air. The most important methods are solid impingement and liquid impingement, filtration, sedimentation, centrifugation electrostatic precipitation. Many tools have been designed for the collection of air samples. Choosing an appropriate sampling device is based on many factors, such as availability, cost, volume of air to be sampled, sampling efficiency and the environmental conditions under which sampling will be conducted. One of the methods is Settle plate technique, where the microorganism carrying particles are allowed to settle onto the medium (solid impingement) for a given period of time and incubated at the optimum temperature (Figure 9.3). It works under the principle of gravitational force.  
 
-**Figure 9.3:** Settle plate technique showing bacterial and fungal growth
+![Settle plate technique showing bacterial and fungal growth](9.3.png "")
 
 Choice of the medium depends upon the kind of microorganisms to be enumerated. For bacterial isolation Nutrient agar and for fungal isolation Sabourauds dextrose agar (SDA) can be used.
 
@@ -375,7 +375,7 @@ Limnectic Zone
 
 Profundal Zone
 
-**Figure 9.5:** Light penetratio  
+![Light penetratio  ](9.5.png "")
 
 impart an earthy odour and taste to river water. Rivers also receive high concentration of bacteria and agricultural chemicals through surface runoff water from adjoining soil during heavy rains and irrigation. In many countries, rivers are heavily polluted with sewage bacteria, especially _Escherichia coli, Enterobacter fecalis, Proteus vulgaris_ and other intestinal bacteria.
 
@@ -397,7 +397,7 @@ n zones of a freshwater lake
 
   
 
-**Figure 9.6:** Algal blooms in
+![Algal blooms in](9.6.png "")
 
 ### Eutrophication
 
@@ -619,7 +619,7 @@ dig
 
 Hospital influent (Raw sawage)
 
-**Figure 9.7:** Schematic diagra  
+![Schematic diagra  ](9.7.png "")
 
 Secondary stage Tertiary stagectivated sludge process)
 
@@ -643,7 +643,7 @@ Secondary sludge
 
 m of waste water treatment
 
-**Figure 9.8:** Bar Screening in Sewage Treatment
+![Bar Screening in Sewage Treatment](9.8.png "")
 
 are removed with a skimmer. The liquid wastewater remaining in the settling tank or basin is then ready for secondary treatment. The fluid from primary treatment is called primary effluent.
 
@@ -693,7 +693,7 @@ Filter support
 
 Collection
 
-**Figure 9.9:** Trickling Fil  
+![Trickling Fil  ](9.9.png "")
 
 The residue that accumulates in sewage treatment plants is called sludge.
 
@@ -724,7 +724,7 @@ Anaerobic
 
 Organics Organic acids, e
 
-**Figure 9.10:** Ox
+![Ox](9.10.png "")
 
 Sludge digestion may also take place aerobically The sludge is vigorously aerated in an open tank for about 20 days. Methane gas is not formed in this process.
 
@@ -814,7 +814,7 @@ Water hyacinth, sewage sludge etc.
 
 **Organic wastes**
 
-**Figure 9.11:** Composting process
+![Composting process](9.11.png "")
 
 **The humification of organic material occurs in three stages** 1\. **Mesophilic stage** - Mesophilic is the
 
@@ -845,11 +845,11 @@ compost pile avoid the following: • Wastes that attract pests • Diseased / i
 
 **Pit method** The compost pits dug in soil with dimension of 3.5m × 2.5m × 1.5m (L×B×H). The pits are filled layer by layer using green plants and animal excreta. The layering is repeated until the pit is filled. Finally a layer of mud is plastered on the top of the pit (Figure 9.12).
 
-**Figure 9.12:** Pit method
+![Pit method](9.12.png "")
 
 **Heap method** In regions with heavy rainfall, the compost may be prepared in heaps above the ground level and protected by a shed. The pile is made with dimension of 2m × 2m × 1.5m (L×B×H) (Figure 9.13).
 
-**Figure 9.13:** Heap method **Methods of compost preparation** 1\. Indore method 2. Bangalore method
+![Heap method **Methods of compost preparation** 1\. Indore method 2. Bangalore method](9.13.png "")
 
 
 

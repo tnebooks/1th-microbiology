@@ -78,7 +78,7 @@ Spider
 
   
 
-**Figure 10.1:** S
+![S](10.1.png "")
 
 ### Soil Horizons
 
@@ -122,7 +122,7 @@ A
 
 Liq
 
-**Figure 10.2:** Wino
+![Wino](10.2.png "")
 
 Sulphur cycle. Therefore, he is considered as the '**Father of Soil Microbiology**'.
 
@@ -375,7 +375,7 @@ Lichen morphology
 
 Fungal hyphae
 
-**Figure 10.3:** Lichen Morphology
+![Lichen Morphology](10.3.png "")
 
 **Commensalism** In a commercial relationship between two microbial population, one population is benefited and other population remains unaffected. Commensalism is an unidirectional relationship between two population. The unaffected population does not benefit by the action of second population. For the receiving population, the benefit provided may be essential. In commensalism, the unaffected population modifies the habitat in such a way that another population is benefited.
 
@@ -396,7 +396,7 @@ Harmful microbial interaction is otherwise described as negative interaction or 
 
 **Ammensalism** Ammensalism is the phenonmenon where one microbial species is affected by other species, where as other species is unaffected by first one. Ammensalism is accomplished by secretions of inhibitory substances such as antibiotics. Certain organisms may be of great practical importance, since they often produce antibiotics or other inhibitory substances, which affect the normal growth of other organisms. Antagonistic relationships are quite common in nature. For example: _Pseudomonas aeruginosa_ is antagonistic towards _Aspergillus terreus_ (Figure 10.4).
 
-**Figure 10.4:** Microbial antagonism
+![Microbial antagonism](10.4.png "")
 
 **Parasitism** This is a relationship in which one of the population benefits from the other and the host is usually harmed. Parasitism
 
@@ -423,7 +423,7 @@ Root cap
 
 Stele (xylem↑, phloem↓)
 
-**Figure 10.5:** Root ha
+![Root ha](10.5.png "")
 
 The rhizospere region can be divided into two zones.
 
@@ -471,7 +471,7 @@ Plant exudates
 
 Potential rhizoplane and endophytic microbiome
 
-**Figure 10.6:** Effect of Rhi
+![Effect of Rhi](10.6.png "")
 
 **Bioleaching:** Soil microorganisms are very closely involved as catalytic agents in many geological processes. These include mineral formation, mineral degradation, sedimentation and geochemical cycling. In recent years, a new discipline of mineral science namely bio-hydrometallurgy or microbial mining (mining with microbes) is rapidly growing. Broadly speaking, bio-hydrometallurgy deals with the application of biotechnology in mining industry. In fact, microorganisms can be successfully used for the extraction of metals (Example: copper, zinc, cobalt, lead, uranium) from low grade ores. Mining with microbes is both economical and environmental friendly.
 
@@ -499,7 +499,7 @@ zosphere in plant growth
 
   
 
-**Figure 10.7:** Microscopic appea
+![Microscopic appea](10.7.png "")
 
 associations exist on leaves. The dominant and useful microorganisms on the leaf surfaces in the forest, vegetation happened to be Nitrogen fixing bacteria like _Beijerinckia_ and _Azotobacter_.
 
@@ -542,7 +542,7 @@ SPHERE
 
 ANAEROBIC
 
-**Figure 10.8:** S
+![S](10.8.png "")
 
 ## Spermosphere
 

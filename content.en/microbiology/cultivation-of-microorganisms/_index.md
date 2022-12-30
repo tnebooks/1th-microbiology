@@ -136,7 +136,7 @@ preparation of solid or semisolid media.
 
 • It is extracted from certain seaweeds belonging to genera of red algae like _Gelidium_ and _Gracilaria_ (Figure 5.1).
 
-**Figure 5.1:** _Gelidium_ – Red algae
+![_Gelidium_ – Red algae](5.1.png "")
 
 • It is a sulphated polymer mainly consisting of D-galactose.
 
@@ -200,7 +200,7 @@ media. However liquid media (broth) does not contain agar. Figure 5.2 shows type
 
 **• Non-synthetic medium** The medium in which the exact chemical composition and the concentration of each ingredient is not certainly known is called non-synthetic medium. In this medium, crude materials such as meat extract, yeast extract, various sugars, molasses and corn steep broth are used. This supports the growth of a variety of microorganisms. It is otherwise called as complex medium.
 
-**Figure 5.2:** Solid, liquid and semi-solid media  
+![Solid, liquid and semi-solid media  ](5.2.png "")
 
 Veggitone is a vegetable based product containing peptones. It is made from raw materials such as peas and fungal proteins that are digested using fungal and bacterial enzymes.
 
@@ -211,7 +211,7 @@ Veggitone is a vegetable based product containing peptones. It is made from raw 
 
 **i) Basal medium** This medium promotes the growth of many types of microorganisms which do not require any special nutrient supplement. It is a routine laboratory medium with Carbon and Nitrogen sources along with some minerals. Example: Nutrient Agar or Nutrient Broth. It is also called general purpose medium. It is used for subculturing the pathogens. It is a non- selective medium, which is designed to support the growth of a wide spectrum of heterotrophic organisms. (Figure 5.3)
 
-**Figure 5.3:** Growth of bacteria on Nutrient agar
+![Growth of bacteria on Nutrient agar](5.3.png "")
 
 **ii) Enriched medium** In enriched medium, substances like blood, egg or serum are added along with the basal medium. It is used to grow fastidious organisms that are very particular in their nutritional needs. Fastidious organisms
 
@@ -222,7 +222,7 @@ Veggitone is a vegetable based product containing peptones. It is made from raw 
 
 have elaborate requirements of specific nutrients like vitamins and growth promoting subtances and or not easily pleased or satisfied by ordinary nutrients available in nature. Example: Blood agar is used to identify haemolytic bacteria (Figure 5.4) and Chocolate agar used to identify _Neisseria gonorrhoeae._
 
-**Figure 5.4:** Blood Agar showing alpha, beta & gamma – haemolytic colonies
+![Blood Agar showing alpha, beta & gamma – haemolytic colonies](5.4.png "")
 
 In 1919, James Brown used blood agar as diagnostic medium to study the haemolytic patterns of bacteria.
 
@@ -230,9 +230,9 @@ In 1919, James Brown used blood agar as diagnostic medium to study the haemolyti
 
 7% Sodium chloride that inhibits the growth of other bacterial population but allows the growth of _Staphylococci_ (Figure 5.5). Moreover it has Phenol red dye to indicate acid production. _Staphylococcus_ utilizes Mannitol and produces acid which changes the colour of the Phenol red indicator to yellow. Salmonella-Shigella (SS) agar is selective for _Salmonella_ (Figure 5.6).
 
-**Figure 5.5:** Growth of _Staphylococcus aureus_ on Mannitol salt agar
+![Growth of _Staphylococcus aureus_ on Mannitol salt agar](5.5.png "")
 
-**Figure 5.6:** Growth of _Salmonella_ on SS agar
+![Growth of _Salmonella_ on SS agar](5.6.png "")
 
 
 
@@ -245,11 +245,11 @@ grow microbes in the laboratory, we have succeeded in culturing only 0.1% of the
 
 **iv) Differential medium** Differential medium distinguishes between different groups of bacteria and permit tentative identification of microorganisms based on their biological charaterstictics as they cause a visible change in the medium. We can differentiate haemolytic and non-haemolytic patterns of bacteria using blood agar. Differential medium is otherwise called indicator medium as it distinguishes one organism from another growing on the same plate by the formation of pigments due to its biochemical and physiological nature. Example: MacConkey agar medium has neutral red dye. Lactose fermentors form pink coloured colonies and non fermentors form colourless translucent colonies on it (Figure 5.7).
 
-**Figure 5.7:** Growth of microorganisms on MacConkey agar (Lactose fermenting
+![Growth of microorganisms on MacConkey agar (Lactose fermenting](5.7.png "")
 
 bacterial colonies appears pink)  
 
-**Figure 5.8:** Growth of lactose fermenting bacteria on EMB Medium
+![Growth of lactose fermenting bacteria on EMB Medium](5.8.png "")
 
 Eosin Methylene Blue (EMB) agar medium is also a differential medium. It is used to differentiate lactose fermentors from non-lactose fermentors. It has lactose sugar and two dyes namely Eosin –Y and Methylene blue. These dyes act as inhibitory agent towards Gram positive bacteria. Example: Lactose fermentors such as faecal _Escherichia coli_ show metallic sheen and non lactose fermentors such as _Enterococcus_ do not show metallic sheen. (Figure 5.8).
 
@@ -280,7 +280,7 @@ of transformed bacteria by using chromogenic substrates. The chromogenic mixture
 
 **vi) Antibiotic sensitivity medium** Antibiotic sensitivity medium is a microbiological growth medium that is commonly used for antibiotic sensitivity testing. Example: Muller- Hinton agar medium. It is a non-selective and non- differential medium. It allows the growth of most type of microorganisms. It contains starch which absorbs toxins released from bacteria. Hence toxins do not interfere with antibiotics. Agar concentration of 1.7% is used in this media which allows better diffusion of antibiotics (Figure 5.9).
 
-**Figure 5.9:** Antibiotic sensitivity on Muller Hinton agar
+![Antibiotic sensitivity on Muller Hinton agar](5.9.png "")
 
 **vii) Anaerobic medium** Anaerobic medium is a medium used for the cultivation of anaerobes, Example: i) Robertson cooked meat medium: This is used for the isolation of _Clostridium_ ii) Thioglycolate broth: In this medium Sodium thioglycollate is used as a reducing agent which maintain a low Oxygen tension by removing the molecular Oxygen from the environment.
 
@@ -360,7 +360,7 @@ at 45ºC-50ºC
 
 M
 
-**Figure 5.10:** Pou  
+![Pou  ](5.10.png "")
 
 ii) Reduced growth of obligate aerobes in the depth of agar.
 
@@ -417,7 +417,7 @@ Spread over the
 
 Spread plat
 
-**Figure 5.11:** Spre  
+![Spre  ](5.11.png "")
 
 **iii) Streak plate technique**
 
@@ -476,7 +476,7 @@ Fourth set of streaks
 
 Third set of streaks
 
-**Figure 5.12:** Steps in strea  
+![Steps in strea  ](5.12.png "")
 
 ## Growth and Colony Characteristics of Bacteria and Fungi
 
@@ -538,7 +538,7 @@ Undulate (wavy)
 
 Filamento
 
-**Figure 5.13:** Colony m  
+![Colony m  ](5.13.png "")
 
 be dry, moist, mucoid, brittle (dry breaks apart), viscid (sticks to loop, hard to get off), viscous, or butyrous (buttery). **Opacity of the bacterial Colony:** Colonies may exhibit different optical density. It may be transparent (clear), opaque (not clear), translucent (almost clear), or iridescent (changing colour in reflected light). **Colony Odour:** Some bacteria produce a characteristic smell, which sometimes helps in identifying the bacteria. Actinomycetes produce an earthy odour which is quite often experienced after rain. Many fungi produce fruity smell while _Escherichia coli_ produce a faecal odour.
 
@@ -565,9 +565,9 @@ orphology of bacteria
 
 **Colony Colour:** Many bacteria develop colonies which are pigmented.(Table 5.3) Some bacteria produce and retain water insoluble pigments and the colonies appear coloured by taking the pigment intracellularly (Figure 5.14). But some bacteria produce water soluble pigment which diffuse into the surrounding agar. Example: Pyocyanin pigment of _Pseudomonas aeruginosa_ is a water soluble pigment and give blue colour to the medium.
 
-**Figure 5.14:** Pigmentation of bacterial colonies on culture medium
+![Pigmentation of bacterial colonies on culture medium](5.14.png "")
 
-**Figure 5.15:** Microbial gr  
+![Microbial gr  ](5.15.png "")
 
 Certain water soluble pigments are fluorescent in nature Example: Py- overdin. Agar medium
 
@@ -606,7 +606,7 @@ Dimorphic fungi are fungi that can exist in both mold and yeast form depending o
 
 Bacteria _Serratia marcescens Staphylococcus aureus Micrococcus luteus Pseudomonas aeruginosa_
 
-**Figure 5.16:** Fungal growth on Sabourau  
+![Fungal growth on Sabourau  ](5.16.png "")
 
 **• Growth and colony characteristics of yeast _Candida_** Yeasts are grown on Sabourad Dextrose Agar aerobically. Yeasts grow as typical pasty colonies and give out yeasty odour. The colony morphology varies with different yeasts. Yeasts colonies generally have smooth texture and are larger than bacterial colonies on SDA medium (Figure 5.16a).
 

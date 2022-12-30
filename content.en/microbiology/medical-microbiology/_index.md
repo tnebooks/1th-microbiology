@@ -125,7 +125,7 @@ _Lactobacillus sp._
 
 _Lactobacillus sp. Streptococcus sp._
 
-**Figure 12.1:** Microorganism (There are many organisms i  
+![Microorganism (There are many organisms i  ](12.1.png "")
 
 1\. When the skin is breached normal flora enters the tissues.
 
@@ -192,7 +192,7 @@ Biological transmission is an active process and is more complex. The pathogens 
 
 Infectious diseases may be localised or generalised.
 
-**Figure 12.2:** The steps involved whe  
+![The steps involved whe  ](12.2.png "")
 
 **Localised infections:** An infection that is restricted to a specific location or region within the body of the host is called localised infection.
 
@@ -314,7 +314,7 @@ and use of the information. Specimen Collection and transport:
 
 It is important to collect the specimen appropriately and protect it from contamination. Transport media are used that are compatible with the organism
 
-**Figure 12.3:** The step  
+![The step  ](12.3.png "")
 
 believed to be present in the clinical sample. Quality of patient specimens and their transport to the laboratory is important.
 
@@ -352,7 +352,7 @@ The different approaches for diagnosis or identification of infectious agents ar
 
 The skin, which covers and protects the body, is the body’s first line of defense against pathogens. As a physical barrier, it is almost impossible for the pathogens to penetrate it. However, microorganisms
 
-**Figure 12.4:** Different a  
+![Different a  ](12.4.png "")
 
 can enter through skin breaks that are not readily apparent, and the larval forms of a few parasites can penetrate the intact skin. The skin has up to seven layers (Figure 12.5) of ectodermal tissue and guards the underlying tissues viz; muscles, bones, ligaments and internal organs. Nearly all human skin is covered with hair follicles. Because it interfaces with the environment, skin plays an important role in protecting the body against pathogens and excessive water loss. Its other functions are insulation, temperature regulation, sensation, synthesis of vitamin D, and the protection of vitamin B folates. Severely damaged skin will try to heal by forming scar tissue. This is often discolored and depigmented.
 
@@ -393,7 +393,7 @@ Bacteria
 
 Skin
 
-**Figure 12.6:** Bacterial infection on the skin
+![Bacterial infection on the skin](12.6.png "")
 
 **Post operative infections** Gasgangrene organisms like _Clostridium_ _perfringens, Staphylococcus aureus_ and _Clostridium tetani_ may cause post operative infections.
 
@@ -414,7 +414,7 @@ Skin
 
 multiply there and produce the disease in the skin. For example, impetigo, abscess and cellulitis (Figure 12.7) are caused by _Staphylococcus aureus_ and _Streptococcus pyogenes_.
 
-**Figure 12.7:** Cellulitis
+![Cellulitis](12.7.png "")
 
 As soon as the organisms enter the skin they multiply and produce various toxins that kill the cells and produce cellulitis. Further damage leads to necrosis and ulcer formation (Figure 12.8).
 
@@ -438,7 +438,7 @@ Wound infections _Pseudomonas aeruginosa,_ others
 
 Form or o  
 
-**Figure 12.8:** Ulcer formation
+![Ulcer formation](12.8.png "")
 
 2\. Organisms multiply in the skin and produce disease in internal organs. For example some Group A _Streptococci_ multiply in the skin and produce disease known as Acute Glomerulonephritis causing damage to the kidneys. Some times _Corynebacterium diphtheriae_ may multiply in the skin and affect the heart due to the toxin
 
@@ -497,7 +497,7 @@ Upper respiratory tract includes mouth, nose, nasal cavity, sinuses, throat or p
 
 Lower respiratory tract includes trachea, bronchi, bronchioles, lungs and alveoli (Figure 12.9).
 
-**Figure 12.9:** Structure of human respiratory tract
+![Structure of human respiratory tract](12.9.png "")
 
 ### Normal Defenses against Infections
 
@@ -628,7 +628,7 @@ Pancreas
 
 Large intestine
 
-**Figure 12.11:** The structure of Gastro intestinal tract  
+![The structure of Gastro intestinal tract  ](12.11.png "")
 
 **Difference between infection and intoxication** Microbial diseases of digestive system are typically transmitted by a fecal oral route. Most such diseases result from the ingestion of food or water contaminated with pathogenic microorganisms or their toxins. These pathogens usually enter the food or water supply after being shed in the feces of people or animals infected with them.
 
@@ -851,7 +851,7 @@ Infected eyelid
 
 Pus accumulation
 
-**Figure 12.14:** Infected eyelid and conjunctiva
+![Infected eyelid and conjunctiva](12.14.png "")
 
 protect the external surfaces of the eye, both mechanically and biologically. **Infection of Eyelid** Most common cause of eyelid infection is _Staphylococcus aureus_.
 
@@ -916,7 +916,7 @@ Cystitis (Bladder infection)
 
 Urethritis (Urethra infection)
 
-**Figure 12.15:** Structure of lower and upper urinary tract infection
+![Structure of lower and upper urinary tract infection](12.15.png "")
 
 Infections of the kidney, ureter and bladder constitute Urinary Tract Infections (UTI). When infection occur in the kidney and ureter it is called upper urinary tract infections and bladder downwards is called lower urinary tract infections. Urinary tract infection is common in females than males. The urinary system normally contains few microbes but it is subjected to opportunistic infections that can be quite troublesome. Almost all such infections are caused by bacteria although occasional infections by pathogens such as parasites, protozoa and fungi also occured. Microorganisms invloved in UTI are listed in Table 12.7.
 
@@ -1042,7 +1042,7 @@ Pathogen penetrates bladder and bacteria replicates, poten. tially forming biol
 
 Pathogen colonizes the urethra and ascends towards the bladder.
 
-**Figure 12.16:** Various stages  
+![Various stages  ](12.16.png "")
 
 organisms normally present in the genital tract of healthy women. Example: Bacterial Vaginosis or Vulvo Vaginal Candidiasis.
 
@@ -1207,7 +1207,7 @@ aginal itching, greenish yellow discharge
 
 The human nervous system is organized into two divisions: The Central Nervous System (CNS) and Peripheral Nervous System (PNS). The Central Nervous System (CNS) consists of brain and
 
-**Figure 12.19:** Structure o
+![Structure o](12.19.png "")
 
 Venous blood
 
@@ -1247,7 +1247,7 @@ Subarachnoid space of brain
 
 barrier excludes most macromolecules, microorganisms, immunocompetent cells and antibodies. Even pathogens that are circulating in the bloodstream usually cannot enter the brain and spinal cord because of blood brain barrier. Certain capillaries permit some substances to pass from the blood into the brain but restricts others. These capillaries are less permeable than others within the body and are therefore more selective in passing materials (Figure 12.20). The blood brain barrier (Figure 12.21) is due to the cellular
 
-**Figure 12.20:** Ca
+![Ca](12.20.png "")
 
 cell forming capillary wall
 
@@ -1265,13 +1265,13 @@ Pore passage
 
 Lipid-solubl substances
 
-**Figure 12.22:** Blo
+![Blo](12.22.png "")
 
 Blood
 
 Cerebrospinal uid
 
-**Figure 12.21:** Blo
+![Blo](12.21.png "")
 
 Blood
 

@@ -82,7 +82,7 @@ o-kingdom system – Linnaeus
 
 ProtistaMonera
 
-**Figure 8.1:** The three facets of taxonomy
+![The three facets of taxonomy](8.1.png "")
 
 **Classification**
 
@@ -116,7 +116,7 @@ Why is type strain refered as the most important strain in a bacterial species?
 
 **HOTS**
 
-**Figure 8.2:** Taxonomic hierarchy-an exam  
+![Taxonomic hierarchy-an exam  ](8.2.png "")
 
 A variant strain that differ physiologically and biologically from other strains in a particular species is called as “Biovar”. Variations in a species is biological in nature. One biovar in a species may grow on sucrose, while another cannot. If the biovars are very similar except for one property, they belong to the same genus and species, though vary in biological growth properties.
 
@@ -218,7 +218,7 @@ Eukary multice
 
 inge moti sexu
 
-**Figure 8.3:** Whittaker’s Fiv  
+![Whittaker’s Fiv  ](8.3.png "")
 
 organisms have typical eukaryotic cell organization.
 
@@ -319,7 +319,7 @@ Colony count
 
 Identification scheme
 
-**Figure 8.4:** General scheme for classification  
+![General scheme for classification  ](8.4.png "")
 
 **Molecular Taxonomy**
 
@@ -354,7 +354,7 @@ A classification technique that is widely used is DNA base composition which is 
 
 Nucleic acid based detection methods help in the detection of genomic materials. The 16s rRNA gene sequencing has been established as the “gold standard” for
 
-**Figure 8.5:** A phylogenetic tree based on rRN three domains: Bacteria, Archaea and Eukary  
+![A phylogenetic tree based on rRN three domains: Bacteria, Archaea and Eukary  ](8.5.png "")
 
 identification & taxonomic classification of microbial species.
 

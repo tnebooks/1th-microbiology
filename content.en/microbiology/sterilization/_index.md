@@ -150,7 +150,7 @@ Temperature indicator valve
 
 Double jacket door
 
-**Figure 4.1:** Hot Air Oven
+![Hot Air Oven](4.1.png "")
 
 
 
@@ -259,7 +259,7 @@ Autoclaving is used in sterilizing culture media, instruments, dressings, applic
 
   
 
-**Figure 4.3:** Types of radiation
+![Types of radiation](4.3.png "")
 
 Source
 
@@ -287,7 +287,7 @@ AM ladio
 
 Radio
 
-**Figure 4.2:** (a) Laboratory autocla
+![(a) Laboratory autocla](4.2.png "")
 
 Release valve
 
@@ -372,7 +372,7 @@ Radiation
 
 **b) Ionizing radiation** Ionizing radiations (X-rays, Gamma rays and Cosmic rays) are an excellent sterilizing agents and they penetrate deep into the objects. These radiations do not produce heat on the surface of materials. Hence, sterilization using ionizing radiations is referred as cold sterilization. It will destroy bacterial endospores and vegetative cells, both Prokaryotic and Eukaryotic; however ionizing radiation is not always effective against viruses. Gamma radiation from
 
-**Figure 4.4:** Princ
+![Princ](4.4.png "")
 
 _Deinococcus radiodu- rans_ is an extremo- philic bacterium. It is one of the most radiation- resistant or-
 
@@ -424,7 +424,7 @@ Incubation
 
 Colonies
 
-**Figure 4.5:** (a) Membrane filter appa microorganism filtered through membra
+![(a) Membrane filter appa microorganism filtered through membra](4.5.png "")
 
 microbial colonies  
 
@@ -445,9 +445,9 @@ Give a reasonable method of sterilization for the following. 1. Operation theatr
 
   
 
-**Figure 4.6:** Type
+![Type](4.6.png "")
 
-**Figure 4.7:** Lam
+![Lam](4.7.png "")
 
 The air is freed from infection by passing it through High Efficiency Particle Arrester (HEPA) filter. Laminar air flow biological safety cabinets are one of the most important air filtration systems (Figure 4.7). It employes HEPA filters which remove 99.97% of 0.33µm particles  
 

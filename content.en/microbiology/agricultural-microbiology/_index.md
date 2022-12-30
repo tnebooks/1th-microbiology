@@ -76,7 +76,7 @@ Death
 
 Respiration returns CO2 to the atmosphere
 
-**Figure 11.1:** A simplified diagra  
+![A simplified diagra  ](11.1.png "")
 
 Atmospheric CO2, dissolved carbon in oceans and freshwater, organic matter are actively cycled carbon reservoirs. Sediments and fossil fuels like coal, petroleum and natural gas are slowly cycled carbon reservoirs. Carbon is cycled between these reservoirs by the biochemical activities of micro organisms and other living things (Figure 11.1).
 
@@ -175,7 +175,7 @@ nodules of legumes
 
 Pla
 
-**Figure 11.2:** Simplified d  
+![Simplified d  ](11.2.png "")
 
 **Ammonification** The production of ammonia during the decomposition of organic nitrogen compounds, by micro organisms after the death of plants and animals is called **ammonification** (Figure 11.2). Much of the ammonia released by aerobic decomposition in soil is taken up rapidly by plants and micro organisms and is converted to amino acids.
 
@@ -294,7 +294,7 @@ Will nitrogen fixation occur in the presence of air? What will be the fate of ni
 
 **HOTS**  
 
-**Figure 11.3:** Root nodules in the leguminous plant root
+![Root nodules in the leguminous plant root](11.3.png "")
 
 ### Phosphorus Cycle
 
@@ -334,7 +334,7 @@ Cortical c
 
 Bactero
 
-**Figure 11.4:** Showing stages of forma  
+![Showing stages of forma  ](11.4.png "")
 
 Root hairells
 
@@ -398,7 +398,7 @@ Precipitated (solid) phosphates
 
 Rock
 
-**Figure 11.5:** Ph  
+![Ph  ](11.5.png "")
 
 3\. Sulphur reduction
 
@@ -481,7 +481,7 @@ Aerobic conditions _Beggiatoa, Thiobacillus_
 
 Reduction by
 
-**Figure 11.6:** S  
+![S  ](11.6.png "")
 
 is called as **assimilatory sulphate reduction**. The H2S thus produced is immediately incorporated into organic compounds.
 
@@ -558,7 +558,7 @@ _Rhizobium_ – legume symbiosis is a well studied plant microbe interaction and
 
 _Rhizobium_ is a gram negative, non-spore forming aerobic bacillus inhabiting the soil in a free living state. The colonies of _Rhizobium_ on YEMA (Yeast Extract Mannitol Agar) plate are gummy, pale white in colour (Figure 11.7). They can establish symbiotic relationship with leguminous plants and fix atmospheric nitrogen thereby greatly improving soil fertility.
 
-**Figure 11.7:** Pale pink mucoid colonies of _Rhizobium_ on Yeast Extract Mannitol
+![Pale pink mucoid colonies of _Rhizobium_ on Yeast Extract Mannitol](11.7.png "")
 
 Agar plate
 
@@ -591,7 +591,7 @@ Intracellular hyphae
 
 Appressorium at entry point
 
-**Figure 11.8:** Showing the colonization  
+![Showing the colonization  ](11.8.png "")
 
 **Method of application of _Rhizobium_ to plants** Carrier based _Rhizobium_ inoculants are mixed with water to form slurry to which the seeds of plants are added (Figure 11.8). The coated seeds are dried in shade and used for sowing.
 
@@ -633,7 +633,7 @@ phosphates in the root zone of plants and satisfy the phosphorus nutrition of pl
 
 **Morphology** VAM is an example of endomycorrhiza meaning, the storage organelles of phosphates like vesicles and arbuscles are seen intracellularly. Vesicle is a globose structure and arbuscle is a tree like branching structure present in the root cortical cells (Figure 11.9). VAM fungi are naturally most prevalent in angiosperms. gymnosperms, pteridophytes and bryophytes.
 
-**Figure 11.9:** The fresh water fern _Azolla._
+![The fresh water fern _Azolla._](11.9.png "")
 
 **Mass production** Root based inoculum is used for preparing VAM biofertilizer (Figure 11.10). The selected spores of VAM fungi are allowed to infect plants like onion, sorghum and other grasses. After 3-4 months, the roots along with the soil are macerated or pelleted with an inert material and packed in polythene pouches which can be used as biofertilizer.
 
@@ -652,7 +652,7 @@ Example: _Nostoc_, _Anabaena_ is examples for filamentous BGA. _Gleocapsa_ is an
 
 **Isolation of BGA** BGA can be isolated from soil or paddy fields. Appropriate dilutions from serially diluted algal sample are inoculated in the liquid flasks containing algal media
 
-**Figure 11.10:** Microscopic view of _Anabaena azollae_
+![Microscopic view of _Anabaena azollae_](11.10.png "")
 
 
 
@@ -796,7 +796,7 @@ This fungus invades the haemocoel of insects through spores. Once the spores att
 
 secrete chitinases, lipases and proteases which can dissolve the cuticle. The hyphae enter the haemolymph and proliferate and colonise the entire insect and release blastospores. Insect death occurs due to nutrient depletion of the haemolymph or by toxaemia by secretion of toxic metabolites.
 
-**Figure 11.11:** Picture of insect infected with _Beauveria bassiana_
+![Picture of insect infected with _Beauveria bassiana_](11.11.png "")
 
 **Biopesticides registered in India:** 1_. Bacillus thuringien-_
 

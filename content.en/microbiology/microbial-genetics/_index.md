@@ -71,9 +71,9 @@ Although there were experiments to prove the inheritance pattern due to gene, th
 
 In 1928, British b a c t e r i o l o g i s t Frederick Griffith (Figure 14.1) was trying to develop a vaccine against pneumonia. In his experiments Griffith used two related strains of _Streptococcus pneumoniae_ (Figure 14.2)_._
 
-**Figure 14.1:** Frederick Griffith
+![Frederick Griffith](14.1.png "")
 
-**Figure 14.2:** Rough and Smooth co  
+![Rough and Smooth co  ](14.2.png "")
 
 1\. Rough strain (R) – avirulent, non-capsulated strain, forming rough colonies on culture media.
 
@@ -95,7 +95,7 @@ What did Griffith expect to happen to mouse when he injected it with live rough 
 ### Oswald T. Avery, Colin Mac Leod and Maclyn Mc Carty’s Experiment
 
 
-**Figure 14.4:** Avery _et al.,_
+![Avery _et al.,_](14.4.png "")
 
 Griffith’s experimental results led to the curiosity to explore the transforming principle. Avery and his colleagues
 
@@ -109,7 +109,7 @@ Heat-killed smooth strain
 
 H
 
-**Figure 14.3:** Summary o  
+![Summary o  ](14.3.png "")
 
 (Figure 14.4) used the extracts of heat-killed smooth bacteria and treated it with enzyme protease, RNase, DNase to eliminate proteins, RNA and DNA respectively. Each of the treated extracts were mixed with live rough bacteria and injected into mice. The mice injected with a mixture of DNase treated extract and live rough strain did not die. This partially proved that DNA was responsible for changing the rough strain of _Streptococcus pneumoniae_ bacteria into smooth bacteria. Avery _et al.,_ experiment is summarized in Figure 14.5. Later Hershey and Chase’s experiment on T2 bacteriophage confirmed that genetic information is present in DNA.
 
@@ -152,7 +152,7 @@ Treated with
 
 RN
 
-**Figure 14.5:** Avery, Mc Cleod
+![Avery, Mc Cleod](14.5.png "")
 
 **Infob**  
 
@@ -299,7 +299,7 @@ P
 
 PPP
 
-**Figure 14.6:** Structure of nucleotide, nucleosid
+![Structure of nucleotide, nucleosid](14.6.png "")
 
 • Two polynucleotide chains join together through hydrogen bonds between nitrogenous bases, to form double stranded DNA (Figure 14.7b).
 
@@ -497,7 +497,7 @@ P
 
 P
 
-**Figure 14.7:** Structure of a single polynuc between two DNA strands,
+![Structure of a single polynuc between two DNA strands,](14.7.png "")
 
 the double helix model, Nobel prize was awarded in 1962 to Watson, Crick and Wilkins. According to Watson and Crick model (Figure 14.9), • The DNA consists of two helical
 
@@ -545,7 +545,7 @@ and three hydrogen bonds are present between G and C (G C).
 
 • The specific A equal to T and G equal to C base pairing is the basis for the complementarity concept. This complementarity concept is very
 
-**Figure 14.8:** Watson and Crick **Figure 14.8:** Watson and Crick
+![Watson and Crick **Figure 14.8:** Watson and Crick](14.8.png "")
 
 with their model
 
@@ -585,7 +585,7 @@ Central axis
 
 3.4 Å Watson and Crick DNA model
 
-**Figure 14.9:** Watson and Crick D  
+![Watson and Crick D  ](14.9.png "")
 
 Chargaff measured the quantity of the bases in DNA and noticed that the number of Adenine is equal to the number of Thymine and the number of Guanine is equal to the number of Cytosine residues. Hence the sum of Purine residues equal to the sum of the Pyrimidine residues.
 
@@ -732,7 +732,7 @@ _Homo sapiens_ 25000 genes
 | E xa mple |E.c oli  5000 g en es |B ac ter io phages10-100 g en es |Homo s apiens25000 g en es |
   
 
-**Figure 14.10:** Forms of DNA
+![Forms of DNA](14.10.png "")
 
 Write the base sequence of complementary DNA and RNA strand for the following.
 
@@ -777,7 +777,7 @@ andom dispersive
 
 +
 
-**Figure 14.11:** Semiconservative, conservative and dispersive replication
+![Semiconservative, conservative and dispersive replication](14.11.png "")
 
 
 
@@ -880,7 +880,7 @@ Semiconserv
 
 14N
 
-**Figure 14.12:** Meselson’s  
+![Meselson’s  ](14.12.png "")
 
 gradient centrifugation (Caesium chloride (CsCl) centrifugation).
 
@@ -1004,7 +1004,7 @@ Movement of replication fork
 
 **Unidirectional replication** Origin of replication
 
-**Figure 14.13:** Unidirectional
+![Unidirectional](14.13.png "")
 
 **c) Action of DNA Ligase**
 
@@ -1066,7 +1066,7 @@ O P
 
 Leading strand
 
-**Figure 14.14:** a) DNA replicatio c) Action of  
+![a) DNA replicatio c) Action of  ](14.14.png "")
 
 Nobel Prize for discovering DNA polymerase in 1956.
 
@@ -1183,7 +1183,7 @@ Daughter strand
 
 Origin
 
-**Figure 14.15:** Termination of
+![Termination of](14.15.png "")
 
 The two essential function expression. Genetic materia inherit all of the specific ge parental organism. A gene i rRNA, or tRNA molecule (
 

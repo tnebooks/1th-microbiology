@@ -125,7 +125,7 @@ He observed the growth of bacteria in infusions. The existence of spermatozoa an
 
 Louis Pasteur was a French chemist and a crystallographer (Figure 1.3). His greatest contribution to microbiology made him to be the ‘**Father of Modern Microbiology’**.  
 
-**Figure 1.1:** Antony Van Leeuwenhoek
+![Antony Van Leeuwenhoek](1.1.png "")
 
 Antony Van Leeuwenhoek wrote many letters. He wrote them in Dutch, the only language that he knew. These letters, described his complete scientific output. Antony Van Leeuwenhoek in a letter dated 12th June 1716, wrote “... _my work, which I’ve done for a long time, was not pursued in order to gain the praise I now enjoy, but chiefly from a craving after knowledge, which I notice resides in me more than in most other men. And therewithal, whenever I found out anything remarkable, I have thought it my duty to put down my discovery on paper, so that all ingenious people might be informed thereof_”.
 
@@ -142,7 +142,7 @@ Antony Van Leeuwenhoek wrote many letters. He wrote them in Dutch, the only lang
 
 **Pasteur disproved spontaneous generation** Spontaneous generation states that life could arise spontaneously from inanimate (non-living) materials (Abiogenesis). Pasteur disproved the
 
-**Figure 1.2:** Leeuwen
+![Leeuwen](1.2.png "")
 
 Sample Mounting pin
 
@@ -152,7 +152,7 @@ Observer’s e
 
 Focusing screws
 
-**Figure 1.3:** Louis Pasteur (1822-1895)  
+![Louis Pasteur (1822-1895)  ](1.3.png "")
 
 theory of spontaneous generation. He strongly supported theory of Biogenesis (life orginates from pre-existing life forms). To prove this he carried out several experiments. Pasteur poured meat infusions into flasks and then drew the top of each flask into a long curved neck that would admit air but not dust (Figure 1.4). He found that if the infusions were heated, they remained sterile (free from any growth) until they were exposed to dust. After opening them on a dusty road and resealing them, he demonstrated the growth of microorganisms in all the flasks. The unopened flasks were sterile. Thus he disproved the theory of spontaneous generation.
 
@@ -179,7 +179,7 @@ Wait
 
 Break neckBoil
 
-**Figure 1.4:** Pasteur’s swa  
+![Pasteur’s swa  ](1.4.png "")
 
 an individual against the disease. He developed vaccines for anthrax and rabies.
 
@@ -205,14 +205,14 @@ n neck flask experiment
 
 months later Jenner inoculated the same boy with material taken from small pox patients. This was a dangerous but accepted procedure at that time. This procedure was called variolation. The boy was protected against small pox. His exposure to the mild cow pox disease had made him immune to the small pox disease. In this manner Jenner began the Science of Immunology, the study of the body’s response to foreign substances. Edward Jenner was regarded as the **‘Father of Immunology’**.
 
-**Figure 1.5:** Dr. Edward Jenner performing his first vaccination (1796)
+![Dr. Edward Jenner performing his first vaccination (1796)](1.5.png "")
 
 ### Robert Koch (1843-1910)
 
 
 Robert Koch was a German physician and microbiologist (Figure 1.6). He was the founder of Modern Bacteriology. Robert Koch discovered _Bacillus anthracis_ (Anthrax bacillus), _M y c o b a c t e r i u m tuberculosis_, and _Vibrio cholerae_. For the first time he showed the evidence that a specific germ (Anthrax bacillus) was the cause of a specific disease (splenic fever in sheep) and introduced scientific approach in Microbiology.
 
-**Figure 1.6:** Robert Koch (1843-1910)  
+![Robert Koch (1843-1910)  ](1.6.png "")
 
 He modified Ziehl-Neelsen Acid Fast staining procedure which was introduced by Ehrlich. He devised solid medium to grow microorganism. He developed powerful method to isolate the microorganisms in pure culture from diseased tissue. He also perfected the techniques of identification of the isolated bacteria.
 
@@ -251,7 +251,7 @@ Microorganisms from the pure culture are inoculated into a healthy , susceptible
 
 **Postulate 3**
 
-**Figure 1.7:** Koch’s postula  
+![Koch’s postula  ](1.7.png "")
 
 4\. It is possible to recover the organism in pure culture from the experimentally infected animals and it is observed to be the same as originally inoculated pathogen. Figure 1.7 explains the Koch’s postulates.
 
@@ -294,17 +294,17 @@ Joseph Lister was a British surgeon (Figure 1.8). He found out that m i c r o o 
 
 He was a British Bacteriologist. He observed a mold (_Penicillium notatum_) growing on a plate of _Staphylococcus aureus_. The growth of _Staphylococcus aureus_ around the mold colony was
 
-**Figure 1.8:** Joseph Lister (1827-1912)  
+![Joseph Lister (1827-1912)  ](1.8.png "")
 
 inhibited (Figure 1.9). He also showed that the culture filtrate of mold inhibited the growth of _Staphylococcus aureus_. He called this substance Penicillin, which acted on Gram positive bacteria. For the discovery of this antibiotic Fleming (Figure 1.10), Florey and Chain got Nobel Prize in 1945. Penicillin eventually came into use during world war II as a result of the work of a team of scientists led by Howard Florey of the University of Oxford.
 
-**Figure 1.10:** Alexander Fleming (1881-1955)
+![Alexander Fleming (1881-1955)](1.10.png "")
 
 Alexander Fleming, the discoverer of penicillin warned about the possibility
 
 of antibiotic resistant bacteria due to antibiotics misuse, as early as in 1920s.
 
-**Figure 1.9:** Original culture plate on which the observation of action of
+![Original culture plate on which the observation of action of](1.9.png "")
 
 penicillin was made by Alexander Fleming
 
@@ -318,7 +318,7 @@ penicillin was made by Alexander Fleming
 
 Waksman was from Rutger University, USA (Figure 1.11). His research was largely on soil microorganisms. He showed antimicrobial activity of streptomyces that led to the discovery of Streptomycin and several other antibiotics.
 
-**Figure 1.11:** Selman Abraham Waksman (1888-1973)
+![Selman Abraham Waksman (1888-1973)](1.11.png "")
 
 Waksman and his co-workers isolated Actinomycin in 1940, Streptothrecin in 1942, Streptomycin in 1943, and Neomycin in 1949.
 

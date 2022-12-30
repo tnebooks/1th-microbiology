@@ -320,7 +320,7 @@ Discovery of activating principles of innate immunity (Hoff man and Beutler) and
 
 The immune system consists of structurally varied organs that are distributed throughout the body. Based on function, the organs can be divided into primary and secondary lymphoid organs (Figure 13.2). The primary lymphoid organs are responsible for providing the appropriate microenvironments for the development and maturation of antigen sensitive B and T cells. The thymus is the primary lymphoid organ for development of T cells and the bone marrow is the primary lymphoid organ for development of B cells. The secondary
 
-**Figure 13.1:** Notable Scientists who contr
+![Notable Scientists who contr](13.1.png "")
 
 **Elie Metchnikoff**
 
@@ -376,7 +376,7 @@ Blood vessels
 
 Medulla
 
-**Figure 13.2:** The distribution o  
+![The distribution o  ](13.2.png "")
 
 process known as thymic selection in which T cells that recognize host (self) antigens are destroyed. The remaining 2% move into the medulla of the thymus, become mature T cells and subsequently enter the blood stream. These T cells recognize non host (non self) antigens. b. Bone marrow In mammals, the bone marrow (Figure 13.4) is the site of B cell maturation. Stromal cells within the bone marrow interact directly with the B cells and secrete various cytokines that are required for B cell development. Like
 
@@ -418,7 +418,7 @@ thymic selection during T cell maturation, a selection process within the bone m
 
 **a. Spleen**
 
-**Figure 13.3:** Diagrammatic Cross-
+![Diagrammatic Cross-](13.3.png "")
 
 Trabecula Dividing thymocyte
 
@@ -438,7 +438,7 @@ te x
 
 Blood vessel Hassall’s
 
-**Figure 13.4:** Str
+![Str](13.4.png "")
 
 Spongy bone
 
@@ -496,11 +496,11 @@ B lymphocytes
 
 Lymphatic artery Lymphatic vein
 
-**Figure 13.6:** Structu
+![Structu](13.6.png "")
 
 divided into a Periarteriolar Lymphoid Sheath (PALS) containing mainly T cells. The spleen filters the blood and traps blood borne microorganisms and antigens. Once trapped by splenic macrophages or dendritic cells, the pathogen is phagocytosed, killed and digested.
 
-**Figure 13.5:** Stru
+![Stru](13.5.png "")
 
 Capsule
 
@@ -543,7 +543,7 @@ Primary follicle
 
 cortex contains lymphocytes (mostly B cells), macrophages and follicular dendritic cells arranged in primary follicles. After antigenic challenge, the primary follicles enlarge into secondary follicles, each containing a germinal centre. Beneath the cortex is the paracortex which is populated largely by T lymphocytes and also interdigitating dendritic cells thought to have migrated from tissues to the node. These interdigitating dentritic cells express high levels of class II MHC molecules, which are necessary for presenting antigen to T helper (TH) cells. Lymph nodes are specialized to trap antigen from regional tissue spaces. As antigen is carried into a lymph node by the lymph, it is trapped, processed and presented together with
 
-**Figure 13.7:** Malt Mucosa Ass
+![Malt Mucosa Ass](13.7.png "")
 
 Small intestine
 
@@ -638,7 +638,7 @@ Lamin propri
 
 Mucos epithe
 
-**Figure 13.8:** Structure of M  
+![Structure of M  ](13.8.png "")
 
 cytose antigen from the lumen of the digestive, s transported across the cell and released into orted across the epithelial layer by M cells at ying lymphoid follicles. The activated B cells ich migrate along the lamina propria, the layer
 
@@ -668,7 +668,7 @@ Lumen
 
 cells and production of IgA:
 
-**Figure 13.9:** SALT
+![SALT](13.9.png "")
 
 Lymph vesselTissue macrophage
 
@@ -744,7 +744,7 @@ S re
 
 He ste
 
-**Figure 13.10:** He  
+![He  ](13.10.png "")
 
 Lymphoid progenitor
 
@@ -807,7 +807,7 @@ Heard about stem cell treatment! Why do we need stem cells bank?
 
 **b. Mast cells** Mast cells are bone marrow derived cells that differentiate in the blood and connective tissue. c. Monocytes and Macrophages Monocytes are mononuclear leukocytes. They are produced in the bone marrow and enter the blood, circulate for about eight
 
-**Figure 13.11:** Structure of granulocytes
+![Structure of granulocytes](13.11.png "")
 
 Neutrophil
 
@@ -842,7 +842,7 @@ Granule
 | Bas op hi ls |70 |1 |
   
 
-**Figure 13.12:** (a) Structure of Monocy (c) Dendr
+![(a) Structure of Monocy (c) Dendr](13.12.png "")
 
 (a)
 
@@ -916,9 +916,9 @@ lgβ lgα
 
 Signaling
 
-**Figure 13.13:** (a) B cell re
+![(a) B cell re](13.13.png "")
 
-**Figure 13.14:** Distinctive memb
+![Distinctive memb](13.14.png "")
 
 (b) TH cell
 
@@ -972,7 +972,7 @@ phagocytic granular lymphocytes that play an important role in innate immunity. 
 
   
 
-**Figure 13.15:** Antibody-Dependent Cell-Mediated Cytotoxicity
+![Antibody-Dependent Cell-Mediated Cytotoxicity](13.15.png "")
 
 Antibodies
 
@@ -998,7 +998,7 @@ Virus antigen
 
 Target cell infected with virus
 
-**Figure 13.16:** The system used by normal cells and abnormal cells that
+![The system used by normal cells and abnormal cells that](13.16.png "")
 
 Complex Class I s
 
@@ -1070,7 +1070,7 @@ Ag Specific
 
 Acquired im
 
-**Figure 13.17:** The interrelationship be  
+![The interrelationship be  ](13.17.png "")
 
 part of the innate structure and function of each animal (such as skin, mucus and lysozyme). Innate immunity is the first line of defence against any microorganism or foreign material encountered by the vertebrate host. Innate immunity defends against foreign invaders equally and lacks immunological memory.
 
@@ -1129,7 +1129,7 @@ are sterile. Urine within the urinary bladder is also sterile. In addition to re
 
 **vi) Eye** The conjunctiva is specialized mucus secreting epithelial membrane that lines the interior surface of each eyelid and the exposed surface of the eye ball. It is kept moist by the continuous flushing action of tears. Tears contain large amounts of lysozyme, lactoferrin, and antibody and thus provide chemical as well as physical protection (Figure 13.18).
 
-**Figure 13.18:** Ph
+![Ph](13.18.png "")
 
 Skin physical barrier fatty acids commensals
 
@@ -1199,7 +1199,7 @@ The cardinal signs of inflammation reflect the three major events of an inflamma
 
 1\. Vasodilation (an increase in the diameter of blood vessels) of nearby capillaries occurs as the vessels that carry blood away from the affected area constrict. This results in engorgement of the capillary network. The engorged capillaries are responsible for tissue redness (erythema) and an increase in temperature.
 
-**Figure 13.20:** (a) Scanning electron microgr E. coli bacteria on the outer surface of a bloo in the phagocytosis of a bacterium.
+![(a) Scanning electron microgr E. coli bacteria on the outer surface of a bloo in the phagocytosis of a bacterium.](13.20.png "")
 
 (a)  
 
@@ -1319,7 +1319,7 @@ Viruses Bacte
 
 7
 
-**Figure 13.21:** Overview of the humoral an system. In the humoral response, B cells in into antibody-secreting plasma cells. The and facilitates its clearance from the bod subpopulations of T cells recognize antigen to antigen by producing cytokines. TC cel cytotoxic T lymphocytes (CTLs), which me virus-infected cells).
+![Overview of the humoral an system. In the humoral response, B cells in into antibody-secreting plasma cells. The and facilitates its clearance from the bod subpopulations of T cells recognize antigen to antigen by producing cytokines. TC cel cytotoxic T lymphocytes (CTLs), which me virus-infected cells).](13.21.png "")
 
 **Passive Immuno- therapy:** Treatment of an infectious disease by administration
 
@@ -1551,7 +1551,7 @@ C H 2
 
 –S–S–
 
-**Figure 13.25:** Structure o  
+![Structure o  ](13.25.png "")
 
 approximately 25000 Da and are composed of about 220 amino acids. Light chains are common to all immunoglobulin classes and are of two types – kappa (κ) or lambda (λ) - based on their structural differences. A given immunoglobulin molecule may contain either identical κ or λ chains but never both.
 
@@ -1642,7 +1642,7 @@ iv. No subclasses of the δ and ε (IgD and IgE) are known.
 
 Disulfide bonds hold together the four polypeptide chains in normal immunoglobulin molecules and are of two types namely interchain bonds and intrachain bonds.
 
-**Figure 13.22:** Prototype structure and interchain d
+![Prototype structure and interchain d](13.22.png "")
 
 Papain digestion
 
@@ -1804,7 +1804,7 @@ Light
 
 lgM
 
-**Figure 13.27:** Structural models of IgM and se linked by J chain at the Fc fragment. Secreto plus secretory component and is shown in th for its absence of a convalent bond between linked by disulfide bonds.  
+![Structural models of IgM and se linked by J chain at the Fc fragment. Secreto plus secretory component and is shown in th for its absence of a convalent bond between linked by disulfide bonds.  ](13.27.png "")
 
 2\. It has a pentameric structure consisting of five monomeric units linked by J chain and disulphide bonds at the Fc fragment (Figure 13.23).
 
@@ -1994,7 +1994,7 @@ There are several advantages in allowing precipitation to occur in a gel rather 
 
 4
 
-**Figure 13.28:** Immunoelectrophoresis
+![Immunoelectrophoresis](13.28.png "")
 
 
 

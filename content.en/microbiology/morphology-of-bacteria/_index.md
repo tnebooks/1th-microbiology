@@ -70,7 +70,7 @@ Pili
 
 Cytoplasmic inclusion
 
-**Figure 7.1:** Generalized  
+![Generalized  ](7.1.png "")
 
 made until the development of electron microscope, which depicted the internal structure of these organisms. The absence of membrane bound internal structures in bacteria and their presence in fungi, algae, protozoa, plant and animal cells was taken as criterion to differentiate prokaryotes and eukaryotes.
 
@@ -113,7 +113,7 @@ BaVirus
 
 Electron Micro
 
-**Figure 7.2:** Metric u
+![Metric u](7.2.png "")
 
 depends upon environmental and growth condition. Medically important bacteria ranges from 0.2 – 1.5 µm in diameter and 3-5µm in length (Figure 7.2).
 
@@ -214,7 +214,7 @@ SPIRI
 
 Sing
 
-**Figure 7.3:** Shapes and a  
+![Shapes and a  ](7.3.png "")
 
 Coccobacillus
 
@@ -261,7 +261,7 @@ Rod
 
 Peptidoglycan portion of cell wall
 
-**Figure 7.4:** Structure  
+![Structure  ](7.4.png "")
 
 2\. In lateral arrangement, flagella are arranged randomly all over the surface of the cell. Bacteria with lateral flagellar arrangement are called peritrichous. (Table 7.1)
 
@@ -348,7 +348,7 @@ Many bacteria secrete high molecular weight polymers that adhere to the exterior
 
 **Capsules** Some bacterial cells are surrounded by a viscous substance forming a covering layer or envelope around the cell wall called capsule (Figure 7.6). Capsule is usually made up of polysaccharide. It may be
 
-**Figure 7.5:** Structure
+![Structure](7.5.png "")
 
 Sex pilus
 
@@ -402,7 +402,7 @@ bacteria from being engulfed and destroyed by white blood cells (phagocytes).
 
 Capsule
 
-**Figure 7.6:** Structure of capsule  
+![Structure of capsule  ](7.6.png "")
 
 lime layer
 
@@ -412,7 +412,7 @@ lime layer
 
 Slime layer
 
-**Figure 7.7:** Structure of slime layer
+![Structure of slime layer](7.7.png "")
 
 ### Other Appendages
 
@@ -439,7 +439,7 @@ Sheath
 
 Bacterial cels
 
-**Figure 7.8:** Sheathed bacterium
+![Sheathed bacterium](7.8.png "")
 
 **Biofilms:** Microbial adhesion to animate or inani surfaces can be mediated by polysaccha capsules or slime. These adherence polymer collectively called as adhesions. Microorga tend to adhere to any surface and the layer produce is called Biofilm. Biofilm can be har or beneficial to humans. Biofilm formation critical issue for almost all surfaces in health and food preparation settings. Biofilms may on a wide variety of surfaces, including liv portable water piping system, etc., Biofilm with attachment to a surface, then formation ending with maturation and detachment. D bacteria are able to communicate with one a quorum sensing.
 
@@ -506,7 +506,7 @@ Cell cluster
 
   
 
-**Figure 7.9:** Prosthecate bacteria
+![Prosthecate bacteria](7.9.png "")
 
 Holdfast
 
@@ -526,7 +526,7 @@ and helps in asexual reproduction.
 
 **Stalk** It is a nonliving ribbon like tubular structure. It is formed by excretory product of bacteria. Some of the stalked bacteria are _Gallionella, Planctomyces_ ( Figure 7.10).
 
-**Figure 7.10:** Stalked bacteria
+![Stalked bacteria](7.10.png "")
 
 Flagellum
 
@@ -571,7 +571,7 @@ Cell envelope of Gram positive bacteria
 
 Periplasm
 
-**Figure 7.11:** Cell envelope of Gram p  
+![Cell envelope of Gram p  ](7.11.png "")
 
 membrane and the outer membrane but no cell wall.
 
@@ -747,7 +747,7 @@ Prokaryotic Ribosome
 
 16S RNA
 
-**Figure 7.12:** Prokaryotic a
+![Prokaryotic a](7.12.png "")
 
 Cytoplasm is thick, aqueous, semi- transparent and elastic. The major structures in the cytoplasm of prokaryotes are nucleoid (containing DNA), ribosomes and reserve deposits called inclusions. Prokaryotic cytoplasm lacks certain features of eukaryotic cytoplasm such as a cytoskeleton and cytoplasmic streaming.
 
@@ -786,7 +786,7 @@ The nuclear area has the hereditary material of most bacteria. It contains a sin
 
 Apart from the bacterial chromosome, bacteria also contain small circular, double stranded DNA molecules called plasmids (Figure 7.13). Plasmids are self replicating extra chromosomal genetic elements. Plasmids may carry genes for activities such as antibiotic resistance and tolerance to toxic metals. Examples: Fertility plasmid (F plasmid), Resistance plasmid (R plasmid) and colicin plasmid (Col plasmid). Bacterial DNA Plasmids
 
-**Figure 7.13:** Plasmids in Prokaryotes
+![Plasmids in Prokaryotes](7.13.png "")
 
 **Molecular Chaperones**
 
@@ -800,7 +800,7 @@ The cytoplasm of prokaryotic cells has several kinds of reserve deposits known a
 
 **Mesosomes** Generally prokaryotes do not have cytoplasmic organelles like mitochondria and chloroplast. It contains mesosome as their organelle. They are the invaginations of the cell membrane and they are in the form of tubules, vesicles or lamellae. They are seen in both Gram positive and Gram negative bacteria, generally more in Gram positive bacteria. They are located next to the septa or cross walls in dividing bacteria (Figure 7.14). They may be involved in cell wall formation during division or play a role in chromosome replication and distribution to daughter cells. If they are located near to the surface they are called peripheral mesosomes and if they are located deep into the cytoplasm they are called central mesosomes.
 
-**Figure 7.14:** Bacterial Mesosome
+![Bacterial Mesosome](7.14.png "")
 
 Cell wall
 
@@ -965,7 +965,7 @@ M
 
 en r
 
-**Figure 7.15:** Structure of pro  
+![Structure of pro  ](7.15.png "")
 
 and eukaryotic cell
 

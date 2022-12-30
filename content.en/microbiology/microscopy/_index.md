@@ -59,7 +59,7 @@ One wavelength Wave Crest
 
 Wave trough
 
-**Figure 2.1:** Wavelength-the distance between two adjacent crests or two adjacent troughs of the wave and denoted by greek letter (λ)
+![Wavelength-the distance between two adjacent crests or two adjacent troughs of the wave and denoted by greek letter (λ)](2.1.png "")
 
 The sun produces a continuous spectrum of electromagnetic radiation with waves of various lengths (Figure 2.2). Radiation of longer wavelength includes Infrared (IR) and radiowaves, the shorter wavelengths include Ultra Violet (UV) rays and X-rays.
 
@@ -97,11 +97,11 @@ Increasing wavelength
 
 (wave
 
-**Figure 2.2:** The electromagnetic spectrum-W visible sp
+![The electromagnetic spectrum-W visible sp](2.2.png "")
 
 Diffraction Absorp
 
-**Figure 2.3:** Interactio
+![Interactio](2.3.png "")
 
 **Transmission Reflec**  
 
@@ -156,7 +156,7 @@ _F_
 
 _f_
 
-**Figure 2.4:** Lens function
+![Lens function](2.4.png "")
 
 **Generating an image with a lens** When an object is placed outside the focal plane (the plane containing the focal point of the lens), all the light rays from the object are bent by the lens. The bent rays converge at the opposite focal point. At the focal point, the light rays continue and converge with nonparallel refracted light rays. The resultant reversed and magnified image is formed in the plane of convergence (Figure 2.5).
 
@@ -170,7 +170,7 @@ Focal distance
 
 Biconvex lens
 
-**Figure 2.5:** Generating  
+![Generating  ](2.5.png "")
 
 **Microscope resolution** Objective is the important part in the microscope which is responsible to produce a clear image. The resolution of the objective is most important. Resolution is the capacity of a lens to separate or distinguish between small objects that are close together. The major factor in the resolution is the wave length of light used. The greatest resolution obtained with light of the shortest wave length, that is the light at the blue end of the visible spectrum are in the range of 450 to 500nm. The highest resolution possible in compound light microscope is about 0.2µm. That means, the two objects closer together than 0.2µm are not resolvable as distinct and separate. The light microscope is equipped with three or four objectives. The working distance of an objective is the distance between the front surface of the lens and the surface of the cover glass or the specimen. Objectives with large numerical apertures and great resolving power have short working distances.
 
@@ -254,7 +254,7 @@ The most commonly used microscope for general laboratory observations is the sta
 
 the body assembly. The nose piece and one or more eyepieces or oculars are attached to it. The body assembly contains series of mirrors and prisms so that the barrel holding the eyepiece may be tilted for viewing. Three or five objectives with different magnification power are fixed to the nosepiece and can be rotated to the position beneath the body assembly. In bright field microscopy; the specimen is viewed against a bright background. The details of the image are defined by the surrounding light. A series of finely ground lenses forms an image
 
-**Figure 2.6:** Bright field Micros  
+![Bright field Micros  ](2.6.png "")
 
 which is many times larger than the real image. This magnification occurs when light rays from an illuminator (light source), pass through a condenser which has lenses that direct the light rays through the specimen. The light rays then pass into objective lens (the lens closest to the specimen). The image is again magnified by the ocular lens or the eyepiece. (Figure 2.7). • Magnification is the process of
 
@@ -281,7 +281,7 @@ Prism that directs rays to ocular lens
 
 Path of light rays (Bottom to top) to eye
 
-**Figure 2.7:** The path of light in light Microscopes
+![The path of light in light Microscopes](2.7.png "")
 
 Refracted light rays lost to lens
 
@@ -299,7 +299,7 @@ Specimen (a) Without immersion oil (
 
 Light source
 
-**Figure 2.8:** Oil Immersion O  
+![Oil Immersion O  ](2.8.png "")
 
 **Oil Immersion**
 
@@ -363,7 +363,7 @@ Abb con
 
 (b)
 
-**Figure 2.9:** Dark Field Microscopy. The simpl microscope is to place. (a) a dark field stop
+![Dark Field Microscopy. The simpl microscope is to place. (a) a dark field stop](2.9.png "")
 
 Compound microscope (also known as light microscope) produces a mono (2D) image and stereo microscope produces stereo (3D) image. ‘Upright’ life science microscopes are the most numerous of all microscopes. An inverted microscope is the kind of microscope that views objects from an inverted position. Digital microscopes are becoming widespread. These provide simple image and are convenient for electronic image capturing.
 
@@ -381,7 +381,7 @@ est way to convert a microscope to dark field underneath (b) the condenser lens 
 
 the objective lens and in the absence of direct background light, the specimen appears light against a dark background (Figure 2.9). The microbes are visualized as halos of bright light against the darkness, as stars are observed against the night sky (Figure 2.10).
 
-**Figure 2.10:** Dark field observation of bacteria _Treponema pallidum_ specimen
+![Dark field observation of bacteria _Treponema pallidum_ specimen](2.10.png "")
 
 from a patient with Syphilis
 

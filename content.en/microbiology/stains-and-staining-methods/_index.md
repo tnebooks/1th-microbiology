@@ -102,7 +102,7 @@ Stains are organic compounds containing chromophore and auxochrome groups linked
 
 A chromophore group imparts colour to the compound. Compounds of benzene containing chromophore radicals are called chromogens. Such a compound, even though it is coloured, is not a dye. In order for a compound to be a dye, it must
 
-**Figure 3.1:** a) Wet mount and
+![a) Wet mount and](3.1.png "")
 
 Cover slip
 
@@ -182,7 +182,7 @@ Negatively charged cell surface
 
 \+ Stain (C+)
 
-**Figure 3.2:** Po  
+![Po  ](3.2.png "")
 
 • A majority of stains used in microbiology are the synthetic type and manufactured from Aniline. For example, Crystal violet, Safranin, Methylene blue and Acid fuchsin.
 
@@ -250,7 +250,7 @@ Negatively charged cell surface
 
 \+ Stain (C –)
 
-**Figure 3.3:** Negative staining  
+![Negative staining  ](3.3.png "")
 
 dye
 
@@ -318,14 +318,14 @@ Add the microbes to the liquid and spread over the slide
 
 Air dry or heat gently. when dry briefly heat fix the cells to the slide
 
-**Figure 3.4:** Preparation of smear
+![Preparation of smear](3.4.png "")
 
 ### Fixation
  Fixation kills the microorganisms and attaches them to the slide. This prevents washing away of microorganism in further steps of staining procedure. It also preserves various parts of microorganisms in their natural state with only minimal distortion. The two fixation methods that are used to fix microbial cells are heat fixation and chemical fixation.  
 
 **Heat fixation** In this method the slide is gently heated by passed through a flame (Figure 3.5). Heat fixation will preserve the overall morphology of the cell without destroying the internal structures.
 
-**Figure 3.5:** Fixation of smear by passing slide gently through the flame
+![Fixation of smear by passing slide gently through the flame](3.5.png "")
 
 **Chemical fixation** It involves the use of chemical fixative to protect the fine cellular structures of delicate microorganisms. For this purpose, Ethanol, Acetic acid, Formaldehyde, Glutaraldehyde and Mercuric chloride are usually used.
 
@@ -419,7 +419,7 @@ bacterial external and internal structure)
 
 iii) Special staining method. Different types of bacterial staining methods are summarized in Flowchart 3.1
 
-**Figure 3.6:** Simple stain – _Micrococcus sp._ stained with Methylene blue
+![Simple stain – _Micrococcus sp._ stained with Methylene blue](3.6.png "")
 
 
 
@@ -530,7 +530,7 @@ Ce
 
 4.
 
-**Figure 3.7:** Steps, micrograph and chem
+![Steps, micrograph and chem](3.7.png "")
 
 The organisms that retain the colour of the primary stain are called Gram positive and those that do not retain the primary stain when decolorised and take on the colour of the counter stain are called Gram negative.
 
@@ -569,7 +569,7 @@ Cell membrane
 
 Peptidoglycan
 
-**Figure 3.8:** Cell wall of Gram pos  
+![Cell wall of Gram pos  ](3.8.png "")
 
 and Gram negative bacteria. In addition, Gram negative bacteria contain a layer of lipo polysaccharide (consists of lipids and polysaccharide) as part of their cell wall. When Crystal violet and subsequently Iodine is applied to both Gram positive and Gram negative cells, the two combine to form CV-I complex.
 
@@ -655,7 +655,7 @@ Subterminal Spores
 
 Terminal spores
 
-**Figure 3.9:** Position of spore in a vegetative cell.
+![Position of spore in a vegetative cell.](3.9.png "")
 
 Endospores cannot be stained by ordinary methods, such as simple staining and Gram staining, because the dyes do not penetrate the wall of the endospore. If simple stains are used, the vegetative body of the bacillus is deeply coloured, whereas the spore is unstained and appears as a clear area in the organism.
 
@@ -677,7 +677,7 @@ _Escherichia coli, Shigella Salmonella, Pseudomonas aeruginosa_
 
 _Leptospira, Treponema_
 
-**Figure 3.10:** Schaeffer Fulton Endospore staining method- spores stained green
+![Schaeffer Fulton Endospore staining method- spores stained green](3.10.png "")
 
 and vegetative cell stained pink
 

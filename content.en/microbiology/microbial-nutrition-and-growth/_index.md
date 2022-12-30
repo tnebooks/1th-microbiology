@@ -126,7 +126,7 @@ Lithotrophs Reduced
 
 Organotrophs Organic  
 
-**Figure 6.1:** Microscopic view of _Cyanobacteria_
+![Microscopic view of _Cyanobacteria_](6.1.png "")
 
 2\. **Photoheterotrophs:** These organisms make use of light as energy source and organic compounds as electron and carbon source. Example: Purple and Green Non sulphur bacteria
 
@@ -290,7 +290,7 @@ e ce
 
 lls
 
-**Figure 6.4:** Bacterial growth curve showing  
+![Bacterial growth curve showing  ](6.4.png "")
 
 medium is added and utilized (spent) medium are removed continuously at a constant rate. A microbial culture remains in exponential state for longer periods, for days and even weeks. This enables the researcher to learn about the physiological processes and enzymatic activities of organisms.
 
@@ -360,7 +360,7 @@ Culture vessel
 
 Receptacle
 
-**Figure 6.5:** The Chemostat  
+![The Chemostat  ](6.5.png "")
 
 y adjusting the dilution rate and cell density of the limiting nutrient (Figure 6.5).
 
@@ -386,7 +386,7 @@ Outlet for spent
 
 medium
 
-**Figure 6.6:** The Turbidostat
+![The Turbidostat](6.6.png "")
 
 
 
@@ -491,7 +491,7 @@ Obligate anaerobes
 
 Facultat anaerob
 
-**Figure 6.7:** The effect of oxygen on th
+![The effect of oxygen on th](6.7.png "")
 
 0.05 mm
 
@@ -501,7 +501,7 @@ Count cells in this square
 
 (a) (b)
 
-**Figure 6.8:** (a) Petroff-Hau (b) Microscopic observa  
+![(a) Petroff-Hau (b) Microscopic observa  ](6.8.png "")
 
 **Disadvantages** 1\. Dead cells are also counted 2. Special microscopes like phase contrast
 
